@@ -1,4 +1,4 @@
-MUSAE ![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/MUSAE.svg?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/benedekrozemberczki/MUSAE.svg?color=blue&style=plastic) ![License](https://img.shields.io/github/license/benedekrozemberczki/MUSAE.svg?color=blue&style=plastic)
+MUSAE
 ============================================
 The reference implementation of "Multi-scale Attributed Embedding of Networks."
 <p align="center">
@@ -12,31 +12,13 @@ We present algorithms that embed nodes of a network into a Euclidean feature spa
 
 The second-order random walks sampling methods were taken from the reference implementation of [Node2Vec](https://github.com/aditya-grover/node2vec).
 
-This repository provides a Gensim implementation of MUSAE and AE as described in the paper:
-> Multi-scale Attributed Embedding of Networks.
-> [Benedek Rozemberczki](http://homepages.inf.ed.ac.uk/s1668259/), [Carl Allen](https://scholar.google.com/citations?user=wRcURR8AAAAJ&hl=en&oi=sra), [Rik Sarkar](https://homepages.inf.ed.ac.uk/rsarkar/)
-> Arxiv, 2019.
-> [[Paper]](https://github.com/benedekrozemberczki/MUSAE/blob/master/musae_paper.pdf)
-
-
 ### Table of Contents
 
-1. [Citing](#citing)  
-2. [Requirements](#requirements)
-3. [Datasets](#datasets)  
-4. [Logging](#logging)  
-5. [Options](#options) 
-6. [Examples](#examples)
-
-### Citing
-
-If you find MUSAE useful in your research, please consider citing the following paper:
-
->@misc{1802.03997,    
-       author = {Benedek Rozemberczki, Carl Allen and Rik Sarkar},    
-       title = {Multi-scale Attributed Embedding of Networks},   
-       year = {2019}
-       }
+1. [Requirements](#requirements)
+2. [Datasets](#datasets)  
+3. [Logging](#logging)  
+4. [Options](#options) 
+5. [Examples](#examples)
 
 ### Requirements
 The codebase is implemented in Python 3.5.2. package versions used for development are just below.
