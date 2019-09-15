@@ -1,6 +1,6 @@
 MUSAE
 ============================================
-The reference implementation of "Multi-scale Attributed Embedding of Networks."
+The reference implementation of "Multi-scale Attributed Node Embedding".
 <p align="center">
   <img width="800" src="musae.jpg">
 </p>
